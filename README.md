@@ -1,3 +1,3 @@
 # BookStoreWebApi
-BookStoreWebApi Patika.Dev ödevinin tamamlanmış halidir
+BookStoreWebApi - Patika.Dev Completed exercice project
 [Patika.dev](https://app.patika.dev/muminarous)
