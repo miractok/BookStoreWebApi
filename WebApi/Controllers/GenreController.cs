@@ -11,7 +11,7 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace WebApi.Controllers
 {
-    //[Authorize]
+    [Authorize]
     [ApiController]
     [Route("[Controller]s")]
     public class GenreController : ControllerBase
