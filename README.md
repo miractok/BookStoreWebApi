@@ -6,7 +6,7 @@ BookStoreWebApi - Patika.Dev Completed .NET exercice project
 ## *INCLUDE*
 
 - Entity Framework Core
-- Mapper
+- Auto Mapper
 - Dependency Injection
 - Fluent Validation
 - Authentication Jwt Bearer
